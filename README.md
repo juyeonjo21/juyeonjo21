@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm juyeonjo21</h1>
-<h3 align="center">저는 수강생 조주연입니다.</h3>
+<h3 align="center">안녕하세요 신입 개발자 조주연입니다.</h3>
 
 - 🌱 I’m currently learning **Spring Framework**
 
