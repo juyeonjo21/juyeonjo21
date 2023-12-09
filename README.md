@@ -1,6 +1,6 @@
-
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=juyeon's%20Github&fontSize=90&fontColor=2f3542)
-
+<div align=center>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=juyeon's%20Github&fontSize=90&fontColor=2f3542"/>
+</div>
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Platforms & Languages ✨</p>
