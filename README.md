@@ -20,7 +20,6 @@
 	<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" />
 </div>
 <br>
-<br>
 <div align=center>
 	<p>🛠 Tools 🛠</p>
 </div>
@@ -32,12 +31,13 @@
 	<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" />
 </div>
 <br>
-<br>
 <div align=center>
 	<p>🎨 Project Portfolio 🎨</p>
-	[SemiProject](https://www.sysout.co.kr/gogi/)<br>
-	[FinalProject](https://github.com/LcsCho/kh12-final5.git)
+	[Semi-Project](https://www.sysout.co.kr/gogi/)
+	[Final-Project](https://github.com/LcsCho/kh12-final5.git)
 </div>
+<div align=center>
 
+</div>
 
 
