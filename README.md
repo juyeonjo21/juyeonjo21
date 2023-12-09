@@ -30,13 +30,20 @@
 	<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=ApacheTomcat&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" />
 </div>
-<br>
+<br/><br/>
 <div align=center>
-	<p>🎨 Project Portfolio 🎨</p>
-	
-</div>
+	<h3>🎨 Project Portfolio 🎨</h3>
+	</div>
+	<div align=center>
+	<a href="https://www.sysout.co.kr/gogi/">
+		<img src="https://img.shields.io/badge/Semi_Project-12CBC4?style=for-the-badge&logo=Micro.blog&logoColor=white" />
+	</a><br/>
+	<a href="https://github.com/LcsCho/kh12-final5.git">
+	<img src="https://img.shields.io/badge/Final_Project-ff9ff3?style=for-the-badge&logo=Micro.blog&logoColor=white" />
+	</a>
+</div><br/><br/>
 <div align=center>
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=juyeonjo21&show_icons=true&locale=en&layout=compact" alt="juyeonjo21" /></p>
 </div>
 
 
