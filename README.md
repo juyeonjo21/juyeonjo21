@@ -35,12 +35,8 @@
 <br>
 <div align=center>
 	<p>🎨 Project Portfolio 🎨</p>
-	
-		<img src="https://img.shields.io/badge/Semi_Project-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
-	<br>
-	
-		<img src="https://img.shields.io/badge/Final_Project-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
-	
+	[Semi-Project](https://www.sysout.co.kr/gogi/)<br>
+	[Final-Project](https://github.com/LcsCho/kh12-final5.git)
 </div>
 
 
