@@ -35,12 +35,12 @@
 <br>
 <div align=center>
 	<p>🎨 Project Portfolio 🎨</p>
-	<a href="https://www.sysout.co.kr/gogi/">
+	
 		<img src="https://img.shields.io/badge/Semi_Project-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
-	</a><br>
-	<a href="https://github.com/LcsCho/kh12-final5.git">
+	<br>
+	
 		<img src="https://img.shields.io/badge/Final_Project-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
-	</a>
+	
 </div>
 
 
