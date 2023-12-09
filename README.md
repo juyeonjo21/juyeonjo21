@@ -33,9 +33,9 @@
 <br>
 <div align=center>
 	<p>🎨 Project Portfolio 🎨</p>
-	[Semi-Project](https://www.sysout.co.kr/gogi/)
+[Semi-Project](https://www.sysout.co.kr/gogi/)
 	<br>
-	[Final-Project](https://github.com/LcsCho/kh12-final5.git/)
+[Final-Project](https://github.com/LcsCho/kh12-final5.git/)
 </div>
 <div align=center>
 
