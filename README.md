@@ -1,5 +1,5 @@
 <div align=center>
-<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=juyeon's%20Github&fontSize=90&fontColor=2f3542"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0be881&height=300&section=header&text=juyeon's%20Github!&fontSize=80&fontColor=3d3d3d&animation=twinkling&stroke=ced6e0"/>
 </div>
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
@@ -36,7 +36,7 @@
 	</div>
 	<div align=center>
 	<a href="https://www.sysout.co.kr/gogi/">
-		<img src="https://img.shields.io/badge/Semi_Project-12CBC4?style=for-the-badge&logo=Micro.blog&logoColor=white" />
+		<img src="https://img.shields.io/badge/Semi_Project-A3CB38?style=for-the-badge&logo=Micro.blog&logoColor=white" />
 	</a><br/>
 	<a href="https://github.com/LcsCho/kh12-final5.git">
 	<img src="https://img.shields.io/badge/Final_Project-ff9ff3?style=for-the-badge&logo=Micro.blog&logoColor=white" />
