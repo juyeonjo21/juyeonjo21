@@ -43,7 +43,8 @@
 	</a>
 </div><br/><br/>
 <div align=center>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=juyeonjo21&show_icons=true&locale=en&layout=compact" alt="juyeonjo21" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=juyeonjo21&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="juyeonjo21" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=juyeonjo21&show_icons=true&theme=tokyonight"/></p>
 </div>
 
 
