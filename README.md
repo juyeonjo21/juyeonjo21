@@ -35,7 +35,7 @@
 	<h3>🎨 Project Portfolio 🎨</h3>
 	</div>
 	<div align=center>
-	<a href="https://www.sysout.co.kr/gogi/](https://github.com/KHSemi3jo/semi-3jo-project">
+	<a href="https://github.com/KHSemi3jo/semi-3jo-project.git">
 		<img src="https://img.shields.io/badge/Semi_Project-A3CB38?style=for-the-badge&logo=Micro.blog&logoColor=white" />
 	</a><br/>
 	<a href="https://github.com/LcsCho/kh12-final5.git">
