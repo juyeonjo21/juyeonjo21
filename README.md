@@ -43,9 +43,12 @@
 	</a>
 </div><br/><br/>
 <div align=center>
-  <img src="https://github-readme-stats.vercel.app/api?username=juyeonjo21&show_icons=true&cache_seconds=7200" />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=juyeonjo21&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="juyeonjo21" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=juyeonjo21&show_icons=true&theme=tokyonight"/></p>
+	
+ <!-- <img src="https://github-readme-stats.vercel.app/api?username=juyeonjo21&show_icons=true&cache_seconds=7200" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juyeonjo21&layout=compact&cache_seconds=7200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juyeonjo21&layout=compact&cache_seconds=7200"/> -->
 </div>
 
 
