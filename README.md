@@ -43,8 +43,9 @@
 	</a>
 </div><br/><br/>
 <div align=center>
-  <img src="https://github-readme-stats.vercel.app/api?username=juyeonjo21&show_icons=true&theme=default" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juyeonjo21&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=juyeonjo21&show_icons=true&cache_seconds=7200" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juyeonjo21&layout=compact&cache_seconds=7200"/>
 </div>
 
 
