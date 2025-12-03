@@ -43,7 +43,7 @@
 	</a>
 </div><br/><br/>
 <div align=center>
-	![Anurag's GitHub stats](https://github-readme-stats-pi-beige-40.vercel.app/api?username=juyeonjo21&show_icons=true&theme=transparent)
+	<!-- ![Anurag's GitHub stats](https://github-readme-stats-pi-beige-40.vercel.app/api?username=juyeonjo21&show_icons=true&theme=transparent) -->
 <!-- <p><img align="center" src="https://github-readme-stats-pi-beige-40.vercel.app/api/top-langs?username=juyeonjo21&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="juyeonjo21" />
 <img align="center" src="https://github-readme-stats-pi-beige-40.vercel.app/api?username=juyeonjo21&show_icons=true&theme=tokyonight"/></p> -->
 	
